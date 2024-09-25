@@ -8,9 +8,9 @@
   "playData": {
     "difficulties": ["easy", "normal", "hard"],
     "characters": {
-      "player": "bf-car",
-      "girlfriend": "gf-car",
-      "opponent": "mom-car"
+      "player": "bf",
+      "girlfriend": "gf",
+      "opponent": "mom"
     },
     "songVariations": ["erect"],
     "stage": "limoRide",
