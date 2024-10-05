@@ -38,18 +38,6 @@
     },
     {
       "danceEvery": 0,
-      "zIndex": 60,
-      "position": [2000, 360],
-      "scale": [1, 1],
-      "animType": "sparrow",
-      "name": "train",
-      "isPixel": false,
-      "assetPath": "philly/train",
-      "scroll": [1, 1],
-      "animations": []
-    },
-    {
-      "danceEvery": 0,
       "zIndex": 70,
       "position": [-40, 50],
       "scale": [1, 1],
